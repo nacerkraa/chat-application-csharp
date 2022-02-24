@@ -1,0 +1,40 @@
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\obj\Debug\Etudiant.csprojResolveAssemblyReference.cache
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\obj\Debug\Etudiant.EtudiantForm.resources
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\obj\Debug\Etudiant.Properties.Resources.resources
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\obj\Debug\Etudiant.csproj.GenerateResource.Cache
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\bin\Debug\Etudiant.exe.config
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\bin\Debug\Etudiant.exe
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\bin\Debug\Etudiant.pdb
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\bin\Debug\IRemoteChat.dll
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\bin\Debug\IRemoteChat.pdb
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\obj\Debug\Etudiant.exe
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Etudiant\obj\Debug\Etudiant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\bin\Debug\Etudiant.exe.config
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\bin\Debug\Etudiant.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\bin\Debug\Etudiant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\bin\Debug\IRemoteChat.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\bin\Debug\IRemoteChat.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\obj\Debug\Etudiant.csprojResolveAssemblyReference.cache
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\obj\Debug\Etudiant.EtudiantForm1.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\obj\Debug\Etudiant.Properties.Resources.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\obj\Debug\Etudiant.csproj.GenerateResource.Cache
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\obj\Debug\Etudiant.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\obj\Debug\Etudiant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\bin\Debug\IRemoteAttendance.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\bin\Debug\IRemoteAttendance.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Etudiant\obj\Debug\Etudiant.EtudiantForm2.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\bin\Debug\Etudiant.exe.config
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\bin\Debug\Etudiant.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\bin\Debug\Etudiant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\bin\Debug\IRemoteAttendance.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\bin\Debug\IRemoteChat.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\bin\Debug\IRemoteAttendance.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\bin\Debug\IRemoteChat.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\obj\Debug\Etudiant.csprojResolveAssemblyReference.cache
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\obj\Debug\Etudiant.EtudiantForm2.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\obj\Debug\Etudiant.EtudiantForm1.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\obj\Debug\Etudiant.Properties.Resources.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\obj\Debug\Etudiant.csproj.GenerateResource.Cache
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\obj\Debug\Etudiant.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\obj\Debug\Etudiant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Etudiant\obj\Debug\Etudiant.EtudiantForm3.resources

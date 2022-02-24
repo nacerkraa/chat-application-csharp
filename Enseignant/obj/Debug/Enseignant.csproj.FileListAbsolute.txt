@@ -1,0 +1,39 @@
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\bin\Debug\Enseignant.exe.config
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\bin\Debug\Enseignant.exe
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\bin\Debug\Enseignant.pdb
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\bin\Debug\IRemoteChat.dll
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\bin\Debug\IRemoteChat.pdb
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\obj\Debug\Enseignant.csprojResolveAssemblyReference.cache
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\obj\Debug\Enseignant.EnseignantForm.resources
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\obj\Debug\Enseignant.Properties.Resources.resources
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\obj\Debug\Enseignant.csproj.GenerateResource.Cache
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\obj\Debug\Enseignant.exe
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\Enseignant\obj\Debug\Enseignant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\bin\Debug\Enseignant.exe.config
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\obj\Debug\Enseignant.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\obj\Debug\Enseignant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\bin\Debug\Enseignant.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\bin\Debug\Enseignant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\bin\Debug\IRemoteAttendance.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\bin\Debug\IRemoteChat.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\bin\Debug\IRemoteAttendance.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\bin\Debug\IRemoteChat.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\obj\Debug\Enseignant.csprojResolveAssemblyReference.cache
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\obj\Debug\Enseignant.EnseignantForm2.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\obj\Debug\Enseignant.EnseignantForm1.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\obj\Debug\Enseignant.Properties.Resources.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\Enseignant\obj\Debug\Enseignant.csproj.GenerateResource.Cache
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\bin\Debug\Enseignant.exe.config
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\obj\Debug\Enseignant.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\obj\Debug\Enseignant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\bin\Debug\Enseignant.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\bin\Debug\Enseignant.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\bin\Debug\IRemoteAttendance.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\bin\Debug\IRemoteChat.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\bin\Debug\IRemoteAttendance.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\bin\Debug\IRemoteChat.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\obj\Debug\Enseignant.csprojResolveAssemblyReference.cache
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\obj\Debug\Enseignant.EnseignantForm2.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\obj\Debug\Enseignant.EnseignantForm1.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\obj\Debug\Enseignant.Properties.Resources.resources
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\Enseignant\obj\Debug\Enseignant.csproj.GenerateResource.Cache

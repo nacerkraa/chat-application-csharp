@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enseignant", "Enseignant\Enseignant.csproj", "{2D63D1AA-4EC2-4A29-B1B5-39C6C3FB62D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etudiant", "Etudiant\Etudiant.csproj", "{7A214443-0769-449D-B1AB-2DEDF1FE889E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRemoteChat", "IRemoteChat\IRemoteChat.csproj", "{E9735895-997E-41A7-9B9B-FFAB5B1516EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRemoteAttendance", "IRemoteAttendance\IRemoteAttendance.csproj", "{7236533D-5FE5-4F74-928A-3A7E2FC82F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D63D1AA-4EC2-4A29-B1B5-39C6C3FB62D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D63D1AA-4EC2-4A29-B1B5-39C6C3FB62D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D63D1AA-4EC2-4A29-B1B5-39C6C3FB62D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D63D1AA-4EC2-4A29-B1B5-39C6C3FB62D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A214443-0769-449D-B1AB-2DEDF1FE889E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A214443-0769-449D-B1AB-2DEDF1FE889E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A214443-0769-449D-B1AB-2DEDF1FE889E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A214443-0769-449D-B1AB-2DEDF1FE889E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9735895-997E-41A7-9B9B-FFAB5B1516EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9735895-997E-41A7-9B9B-FFAB5B1516EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9735895-997E-41A7-9B9B-FFAB5B1516EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9735895-997E-41A7-9B9B-FFAB5B1516EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7236533D-5FE5-4F74-928A-3A7E2FC82F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7236533D-5FE5-4F74-928A-3A7E2FC82F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7236533D-5FE5-4F74-928A-3A7E2FC82F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7236533D-5FE5-4F74-928A-3A7E2FC82F23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

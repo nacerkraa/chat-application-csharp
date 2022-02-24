@@ -1,0 +1,13 @@
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\IRemoteChat\bin\Debug\IRemoteChat.dll
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\IRemoteChat\bin\Debug\IRemoteChat.pdb
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\IRemoteChat\obj\Debug\IRemoteChat.dll
+c:\users\nacer\documents\visual studio 2012\Projects\mini_project2\IRemoteChat\obj\Debug\IRemoteChat.pdb
+C:\Users\nacer\documents\visual studio 2012\Projects\mini_project2\IRemoteChat\obj\Debug\IRemoteChat.csprojResolveAssemblyReference.cache
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\IRemoteChat\bin\Debug\IRemoteChat.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\IRemoteChat\bin\Debug\IRemoteChat.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\IRemoteChat\obj\Debug\IRemoteChat.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project3(add database)\IRemoteChat\obj\Debug\IRemoteChat.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\IRemoteChat\bin\Debug\IRemoteChat.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\IRemoteChat\bin\Debug\IRemoteChat.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\IRemoteChat\obj\Debug\IRemoteChat.dll
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\mini_project v5(Register)\IRemoteChat\obj\Debug\IRemoteChat.pdb
