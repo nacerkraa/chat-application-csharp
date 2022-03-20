@@ -10,7 +10,7 @@ namespace IRemoteAttendance
 {
     public interface IRegistration
     {
-        /* ... the new methodes ... */
+        /* .... the new methodes ... */
         void setUser(User user);
         void CheakStudent(string userN,string pass);
         void CheakTeacher(int user,string pass);
